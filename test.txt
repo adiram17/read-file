@@ -1,0 +1,4 @@
+Im doing my POS (part of speech tagging) from this tagger. 
+But when i combine that part to my maven project it doesnt work. 
+Is there a way where i can user stanford directly to do pos without using a seperate tagger?
+I want the output as same as this. 
